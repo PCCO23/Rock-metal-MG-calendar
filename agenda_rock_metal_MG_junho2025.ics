@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//RockMetalBH//Agenda//PT-BR
+BEGIN:VEVENT
+SUMMARY:Virada Metal 2025
+DTSTART;TZID=America/Sao_Paulo:20250614T134000
+DTEND;TZID=America/Sao_Paulo:20250614T235900
+DESCRIPTION:Evento dedicado à cena autoral do metal. Local: Mister Rock, Av. Teresa Cristina, 295 – Prado, BH.
+LOCATION:Mister Rock, BH
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Casualties + Uganga + Last Warning
+DTSTART;TZID=America/Sao_Paulo:20250620T190000
+DTEND;TZID=America/Sao_Paulo:20250620T235900
+DESCRIPTION:Street punk com The Casualties (NY) e bandas brasileiras. Local: Caverna Rock Pub, Rua dos Tupis, 1448 – Barro Preto.
+LOCATION:Caverna Rock Pub, BH
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arraiá do Rock
+DTSTART;TZID=America/Sao_Paulo:20250608T120000
+DTEND;TZID=America/Sao_Paulo:20250608T220000
+DESCRIPTION:Evento gratuito com bandas independentes. Local: Av. Bernardo Monteiro, 1.212 – Funcionários, BH.
+LOCATION:Av. Bernardo Monteiro, 1.212, BH
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk no Park 2025
+DTSTART;TZID=America/Sao_Paulo:20250607T150000
+DTEND;TZID=America/Sao_Paulo:20250607T220000
+DESCRIPTION:Festival punk com atrações locais e nacionais. Local: A confirmar, BH.
+LOCATION:Belo Horizonte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Beast Experience Symphonic – Tributo ao Iron Maiden
+DTSTART;TZID=America/Sao_Paulo:20250608T190000
+DTEND;TZID=America/Sao_Paulo:20250608T213000
+DESCRIPTION:Show sinfônico em homenagem ao Iron Maiden. Local: Cine Theatro Brasil, Av. Amazonas, 315 – Centro, BH.
+LOCATION:Cine Theatro Brasil, BH
+END:VEVENT
+
+END:VCALENDAR
