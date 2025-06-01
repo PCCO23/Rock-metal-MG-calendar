@@ -38,4 +38,12 @@ DESCRIPTION:Show sinfônico em homenagem ao Iron Maiden. Local: Cine Theatro Bra
 LOCATION:Cine Theatro Brasil, BH
 END:VEVENT
 
+BEGIN:VEVENT 
+SUMMARY:Teste de Atualização 
+DTSTART;TZID=America/Sao_Paulo:20250630T200000 
+DTEND;TZID=America/Sao_Paulo:20250630T230000 
+DESCRIPTION:Esse é um teste para verificar a atualização automática do Google Agenda. 
+LOCATION:Seu Sofá, BH 
+END:VEVENT
+
 END:VCALENDAR
